@@ -2626,6 +2626,7 @@ class RecipeView {
     #data;
     render(data) {
         this.#data = data;
+        console.log(data);
     }
 }
 exports.default = new RecipeView();

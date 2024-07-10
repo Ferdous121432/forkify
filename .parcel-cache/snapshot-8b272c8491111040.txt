@@ -53,7 +53,7 @@
 71D:\Workplace\Portfolio Projects\forkify\node_modules\dom-serializer\lib133650077558431430 1
 105D:\Workplace\Portfolio Projects\forkify\node_modules\csso\node_modules\mdn-data\css\selectors.schema.json133650077623690651 0
 87D:\Workplace\Portfolio Projects\forkify\node_modules\css-select\node_modules\domhandler133650077608487845 1
-44D:\Workplace\Portfolio Projects\forkify\dist133650715574186645 1
+44D:\Workplace\Portfolio Projects\forkify\dist133650770253287607 1
 77D:\Workplace\Portfolio Projects\forkify\node_modules\semver\functions\sort.js133650077623993212 0
 89D:\Workplace\Portfolio Projects\forkify\node_modules\core-js\full\string\virtual\small.js133650170842799649 0
 90D:\Workplace\Portfolio Projects\forkify\node_modules\core-js\actual\dom-exception\index.js133650170688590897 0
@@ -66,7 +66,7 @@
 79D:\Workplace\Portfolio Projects\forkify\node_modules\csso\node_modules\css-tree133650077738477490 1
 84D:\Workplace\Portfolio Projects\forkify\node_modules\core-js\actual\object\assign.js133650170582471296 0
 84D:\Workplace\Portfolio Projects\forkify\node_modules\core-js\modules\es.parse-int.js133650170624033859 0
-50D:\Workplace\Portfolio Projects\forkify\.gitignore133650711044490893 0
+50D:\Workplace\Portfolio Projects\forkify\.gitignore133650716680703378 0
 80D:\Workplace\Portfolio Projects\forkify\node_modules\css-tree\lib\utils\clone.js133650077702535503 0
 78D:\Workplace\Portfolio Projects\forkify\node_modules\node-addon-api\napi-inl.h133650077535607254 0
 61D:\Workplace\Portfolio Projects\forkify\node_modules\css-what133650077572366643 1
@@ -666,7 +666,7 @@
 96D:\Workplace\Portfolio Projects\forkify\node_modules\htmlnano\lib\modules\collapseWhitespace.cjs133650077554028742 0
 73D:\Workplace\Portfolio Projects\forkify\node_modules\svgo\lib\svgo\coa.js133650077607900086 0
 90D:\Workplace\Portfolio Projects\forkify\node_modules\source-map\lib\source-map-consumer.js133650077534769430 0
-66D:\Workplace\Portfolio Projects\forkify\src\js\views\recipeView.js133650715573611358 0
+66D:\Workplace\Portfolio Projects\forkify\src\js\views\recipeView.js133650770237199653 0
 60D:\Workplace\Portfolio Projects\forkify\node_modules\js-yaml133650077611273112 1
 86D:\Workplace\Portfolio Projects\forkify\node_modules\core-js\actual\number\to-fixed.js133650170871787197 0
 89D:\Workplace\Portfolio Projects\forkify\node_modules\css-tree\lib\syntax\node\Brackets.js133650077700515082 0
@@ -9507,7 +9507,7 @@
 99D:\Workplace\Portfolio Projects\forkify\node_modules\@parcel\core\src\registerCoreWithSerializer.js133650077704535831 0
 87D:\Workplace\Portfolio Projects\forkify\node_modules\@parcel\core\src\ReporterRunner.js133650077705507473 0
 78D:\Workplace\Portfolio Projects\forkify\node_modules\@parcel\core\src\requests133650077719825384 1
-66D:\Workplace\Portfolio Projects\forkify\dist\index.e37f48ea.js.map133650715574176622 0
+66D:\Workplace\Portfolio Projects\forkify\dist\index.e37f48ea.js.map133650770253167670 0
 87D:\Workplace\Portfolio Projects\forkify\node_modules\@parcel\core\src\RequestTracker.js133650077706619867 0
 87D:\Workplace\Portfolio Projects\forkify\node_modules\@parcel\core\src\resolveOptions.js133650077707746600 0
 87D:\Workplace\Portfolio Projects\forkify\node_modules\@parcel\core\src\serializerCore.js133650077710099099 0
@@ -9689,4 +9689,4 @@
 55D:\Workplace\Portfolio Projects\forkify\src\js\model.js133650686519859795 0
 62D:\Workplace\Portfolio Projects\forkify\dist\logo.726d37a8.png133650715574106657 0
 65D:\Workplace\Portfolio Projects\forkify\dist\favicon.8b2f57bf.png133650715574136619 0
-62D:\Workplace\Portfolio Projects\forkify\dist\index.e37f48ea.js133650715574156620 0
+62D:\Workplace\Portfolio Projects\forkify\dist\index.e37f48ea.js133650770252251541 0

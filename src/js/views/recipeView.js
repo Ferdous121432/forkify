@@ -4,6 +4,7 @@ class RecipeView {
 
   render(data) {
     this.#data = data;
+    console.log(data);
   }
 }
 

@@ -625,8 +625,7 @@ const showRecipe = async function() {
         await _modelJs.loadRecipe(id);
         const recipe = _modelJs.state.recipe;
         // 2. Rendering Recipe\
-        recipeView.render(_modelJs.state.recipe);
-        const recipeView = new recipeView();
+        (0, _recipeViewJsDefault.default).render(_modelJs.state.recipe);
         const markup = `
      <figure class="recipe__fig">
           <img src="${recipe.image}" alt="${recipe.title}" class="recipe__img" />
@@ -2624,6 +2623,10 @@ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 class RecipeView {
     #parentElement = document.querySelector(".recipe");
+    #data;
+    render(data) {
+        this.#data = data;
+    }
 }
 exports.default = new RecipeView();
 

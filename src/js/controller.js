@@ -48,7 +48,6 @@ const showRecipe = async function () {
 
     // 2. Rendering Recipe\
     recipeView.render(model.state.recipe);
-    const recipeView = new recipeView();
 
     const markup = `
      <figure class="recipe__fig">
